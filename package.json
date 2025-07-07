@@ -7,6 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
+    "homepage": "https://srushtirk99.github.io/Huzaif-Ahmed-Portfolio",
+
   },
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
